@@ -19,17 +19,17 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_Probably a few_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Contact me through Discord (Riley McAdoo)_
 
 ## Technologies Used
 
-*_Git Bash_
-*_Visusal Studio Code_
-*_Google Chrome_
+* _Git Bash_
+* _Visusal Studio Code_
+* _Google Chrome_
 
 ### License
 
